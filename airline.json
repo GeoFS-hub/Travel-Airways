@@ -1,7 +1,7 @@
 {
     "name": "Travel Airways",
-    "color": "",
-    "bgcolor": "",
+    "color": "#10a4a5",
+    "bgcolor": "#ffffff",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -30,8 +30,17 @@
         },
         "4": {
             "name": "Boeing b737-700",
-            "liveries": [
-            ],
+            "liveries":[
+                {
+                    "name": "RP-C1146 EastSky old livery 737",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/normal.jpg",
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.ibb.co/0p8z1hq7/B737-700.png"
+                    ],
+                    "credits": "KN5290, 31124呀"
+                  }
+            ],   
             "labels": [
                 "Normal map",
                 "Specular shader",
