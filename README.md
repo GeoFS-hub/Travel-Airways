@@ -27,8 +27,6 @@ My goal was to put the liveries into one easy to use interface where you can sel
 > - [On Bilibili](URL)
 
 
-**Both versions download the list of newest aircrafts every time you start GeoFS, you don't have to do anything after installation.**
-
 ### Quick test without installation
 
 You can use this without installation: just copy the URL and paste it in LiverySelector.
