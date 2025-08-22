@@ -1,6 +1,5 @@
 <h1 align="center">Travel Airways</h1>
 
-<h1></h1>
 <p align="center">
     <img alt="Stars Badge" src="https://img.shields.io/github/stars/kolos26/GEOFS-LiverySelector?style=flat-square&color=light-green">
     <img alt="Stars Badge" src="https://img.shields.io/github/watchers/kolos26/GEOFS-LiverySelector?style=flat-square&color=light-green">
