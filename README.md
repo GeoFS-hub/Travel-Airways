@@ -6,7 +6,7 @@
     <img alt="Stars Badge" src="https://img.shields.io/github/release/kolos26/GEOFS-LiverySelector?style=flat-square&color=light-green">
 </p>
 
-LiverySelector is a unified livery handler addon for [GeoFS](https://geo-fs.com), 
+Travel Airways is a virtual airline of [GeoFS](https://geo-fs.com) and based on the addon of [GeoFS](https://geo-fs.com) [LiverySelector](https://github.com/kolos26/GEOFS-LiverySelector)
 containing hundreds of liveries and a feature packed user interface to make it easier to use your favorite livery.
 
 In the list of liveries you can find:
