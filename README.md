@@ -1,9 +1,9 @@
 <h1 align="center">Travel Airways</h1>
 
 <p align="center">
-    <img alt="Stars Badge" src="https://img.shields.io/github/stars/kolos26/GEOFS-LiverySelector?style=flat-square&color=light-green">
-    <img alt="Stars Badge" src="https://img.shields.io/github/watchers/kolos26/GEOFS-LiverySelector?style=flat-square&color=light-green">
-    <img alt="Stars Badge" src="https://img.shields.io/github/release/kolos26/GEOFS-LiverySelector?style=flat-square&color=light-green">
+    <img alt="Stars Badge" src="https://img.shields.io/github/stars/GeoFS-hub/Travel-Airways?style=flat-square&color=light-green">
+    <img alt="Stars Badge" src="https://img.shields.io/github/stars/GeoFS-hub/Travel-Airways?style=flat-square&color=light-green">
+    <img alt="Stars Badge" src="https://img.shields.io/github/stars/GeoFS-hub/Travel-Airways?style=flat-square&color=light-green">
 </p>
 
 Travel Airways is a virtual airline of [GeoFS](https://geo-fs.com) and based on the addon of [GeoFS](https://geo-fs.com) [LiverySelector](https://github.com/kolos26/GEOFS-LiverySelector)
