@@ -22,7 +22,7 @@ My goal was to put the liveries into one easy to use interface where you can sel
 
 ## How to use
 
-> Tutorial video by bilibili 31124
+> Tutorial video by Bilibili 31124呀
 > - [On YouTube](https://www.youtube.com/watch?v=luASAu7ikYA)
 > - [On Bilibili](https://www.bilibili.com/video/BV1gS411w7Co/?spm_id_from=333.999.0.0&vd_source=6be8a43efb2014347309862b1aaf1fd2)
 
