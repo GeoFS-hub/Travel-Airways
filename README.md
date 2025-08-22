@@ -1,5 +1,4 @@
-# Travel-Airways
-<h1 align="center">GEOFS-LiverySelector</h1>
+<h1 align="center">Travel Airways</h1>
 
 <p align="center">
     <img src="liveryselector-logo.svg" width="100%"/>
