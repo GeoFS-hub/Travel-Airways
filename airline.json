@@ -32,7 +32,7 @@
             "name": "Boeing b737-700",
             "liveries":[
                 {
-                    "name": "RP-C1146 EastSky old livery 737",
+                    "name": "Travel Airways Normal Livery",
                     "texture": [
                         "/models/aircraft/premium/737_700/normal.jpg",
                         "/models/aircraft/premium/737_700/specular.jpg",
