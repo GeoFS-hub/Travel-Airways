@@ -2,50 +2,37 @@
 
 <p align="center">
     <img alt="Stars Badge" src="https://img.shields.io/github/stars/GeoFS-hub/Travel-Airways?style=flat-square&color=light-green">
-    <img alt="Stars Badge" src="https://img.shields.io/github/stars/GeoFS-hub/Travel-Airways?style=flat-square&color=light-green">
-    <img alt="Stars Badge" src="https://img.shields.io/github/stars/GeoFS-hub/Travel-Airways?style=flat-square&color=light-green">
+    <img alt="Watchers Badge" src="https://img.shields.io/github/watchers/GeoFS-hub/Travel-Airways?style=flat-square&color=light-green">
+    <img alt="Stars Badge" src="https://img.shields.io/github/release/GeoFS-hub/Travel-Airways?style=flat-square&color=light-green">
 </p>
 
 Travel Airways is a virtual airline of [GeoFS](https://geo-fs.com) and based on the addon of [GeoFS](https://geo-fs.com) [LiverySelector](https://github.com/kolos26/GEOFS-LiverySelector)
-containing hundreds of liveries and a feature packed user interface to make it easier to use your favorite livery.
 
 In the list of liveries you can find:
-
-- the well known [multiliveries](https://github.com/Spice9/Geofs-Multiliveries) by Spice9, 
-- the LiveryChanger by [Ariakim Taiyo](https://github.com/Ariakim-Taiyo/LiveryChanger), 
-- [Iuhairways](https://github.com/iuhairways/Liverychanger-modified), and
-- other custom liveries made exactly for this project.
 
 My goal was to put the liveries into one easy to use interface where you can select them fast with one click.
 
 ## Trailer
-[![YouTube Trailer](https://img.youtube.com/vi/1w5u2R1dnVU/hqdefault.jpg)](https://www.youtube.com/watch?v=1w5u2R1dnVU)
+[![YouTube Trailer NOT ONLINE NOW](https://img.youtube.com/vi/1w5u2R1dnVU/hqdefault.jpg)](https://www.youtube.com/watch?v=1w5u2R1dnVU)
 
 
-## Features
+## Offical Website
 
-For every supported aircraft you can find the list of avaliable liveries in the livery menu. You can open the menu by clicking on the LS logo or simply pressing *l* on your keyboard. Here you can star your favourite liveries to show them on the top and search for any livery. I'm only planning to support real-life liveries, because most people do not want to share their personal liveries.
+[Travel Airways](https://airtravel.neocities.org/)
 
 
 ## How to use
 
-> Tutorial video by bilibili開飛機のzm
-> - [on youtube](https://www.youtube.com/watch?v=luASAu7ikYA)
-> - [on bilibili](https://www.bilibili.com/video/BV1gS411w7Co/?spm_id_from=333.999.0.0&vd_source=6be8a43efb2014347309862b1aaf1fd2)
+> Tutorial video by bilibili 31124
+> - [On YouTube](https://www.youtube.com/watch?v=luASAu7ikYA)
+> - [On Bilibili](https://www.bilibili.com/video/BV1gS411w7Co/?spm_id_from=333.999.0.0&vd_source=6be8a43efb2014347309862b1aaf1fd2)
 
-You can use LiverySelector without installation, or you can add it to your Tampermonkey browser addon.
 
 **Both versions download the list of newest aircrafts every time you start GeoFS, you don't have to do anything after installation.**
 
 ### Quick test without installation
 
-You can use the LiverySelector without installation: just copy and paste the [main.js](https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/main.js) into the browser console.
-
-You need to do that every time you want to use LiverySelector.
-
-### Install into Tampermonkey (recommended)
-
-You can also find the [Tampermonkey](https://www.tampermonkey.net/) compatible version of LiverySelector in the Releases menu and add it to your Tampermonkey addon.
+You can use this without installation: just copy the URL and paste it in LiverySelector.
 
 
 ## How to use the test feature?
