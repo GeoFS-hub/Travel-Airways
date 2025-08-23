@@ -32,7 +32,7 @@
             "name": "Boeing b737-700",
             "liveries":[
                 {
-                    "name": "Travel Airways Normal Livery",
+                    "name": "Travel Airways 737-700",
                     "texture": [
                         "/models/aircraft/premium/737_700/normal.jpg",
                         "/models/aircraft/premium/737_700/specular.jpg",
