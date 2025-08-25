@@ -34,7 +34,7 @@ You can use this without installation: just copy the URL and paste it in LiveryS
 
 ## Last Updated Time
 ### UTC Time: 
-```json
+```C++
 25th Aug
 
 
