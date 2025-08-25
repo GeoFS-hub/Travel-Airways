@@ -33,9 +33,7 @@ You can use this without installation: just copy the URL and paste it in LiveryS
 
 
 ## Last Updated Time
-### UTC Time: 25th Aug
+### UTC Time: ```25th Aug
 
-```python
-def greet(name):
-return f"Hello, {name}!"
-print(greet("by 31124呀"))
+```C++
+By 31124
