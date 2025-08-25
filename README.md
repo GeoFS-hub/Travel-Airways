@@ -35,7 +35,7 @@ You can use this without installation: just copy the URL and paste it in LiveryS
 ## Last Updated Time
 ### UTC Time: 
 ```C++
-25th Aug
+11:00, 25th Aug, 2025
 ```
 
 ###### By 31124呀
