@@ -36,7 +36,6 @@ You can use this without installation: just copy the URL and paste it in LiveryS
 ### UTC Time: 
 ```C++
 25th Aug
+```
 
-
-```C++
-By 31124呀
+###### By 31124呀
