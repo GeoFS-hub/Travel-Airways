@@ -1095,12 +1095,12 @@
             "mp": "disabled",
             "liveries": [
                 {
-                    "name": "United Airlines (Star Alliance livery)",
+                    "name": "Travel Airways",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/772UALSA.jpg"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/26a02890a17ac9ec491472214b27d71ebea30d5a/liveries/Boeing%20777-200ER/Travel%20Airways%20B777-200ER.png"
                     ],
-                    "credits": "MirageModels"
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
                 }
             ],
             "labels": [
@@ -1108,6 +1108,85 @@
                 "Texture"
             ],
             "name": "Boeing b777-200"
+        },
+        "1004": {
+            "index": [
+                1,
+                0
+            ],
+            "parts": [
+                0,
+                0
+            ],
+            "mp": "disabled",
+            "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200lr/shaders/original.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/26a02890a17ac9ec491472214b27d71ebea30d5a/liveries/Boeing%20777-200LR/Travel%20Airways%20B777-200LR.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
+            ],
+            "labels": [
+                "Metallic Roughness shader",
+                "Texture"
+            ],
+            "name": "Boeing b777-200LR"
+        },
+        "4402": {
+            "index": [
+                1,
+                0
+            ],
+            "parts": [
+                0,
+                0
+            ],
+            "mp": "disabled",
+            "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/26a02890a17ac9ec491472214b27d71ebea30d5a/liveries/Boeing%20777-200F/Travel%20Airways%20B777-200F.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
+                ],
+            "labels": [
+                "Metallic Roughness shader",
+                "Texture"
+            ],
+            "name": "Boeing b777-200F" 
+        },
+        "1001": {
+            "index": [
+                0
+            ],
+            "parts": [
+                0
+            ],
+            "mp": [
+                {
+                    "modelIndex": 0,
+                    "textureIndex": 0
+                }
+            ],
+            "liveries": [
+                {
+                    "name": "No liveries Yet",
+                    "texture": [
+                        "No liveries Yet"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ],
+            "name": "Boeing b737-900" 
         },
     }
 }
