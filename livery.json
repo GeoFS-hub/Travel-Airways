@@ -462,7 +462,7 @@
             ]
         },
         "2769": {
-            "name": "Boeing b737-MAX8",
+            "name": "Boeing b737-MAX 8",
             "liveries": [
                 {
                     "name": "No liveries Yet",
@@ -539,7 +539,7 @@
                         "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20737-800/Travel%20Airways's%2066th%20B737-800.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
-                },
+                }
             ],
             "labels": [
                 "Texture"
@@ -548,6 +548,13 @@
         "4017": {
             "name": "Embraer ERJ 145LR",
             "liveries": [
+                {
+                    "name": "No liveries Yet",
+                    "texture": [
+                        "No liveries Yet"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
