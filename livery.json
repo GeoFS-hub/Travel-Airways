@@ -571,6 +571,15 @@
         "247": {
             "name": "Bombardier Dash8-q400",
             "liveries": [
+                {
+                    "name": "No liveries Yet",
+                    "texture": [
+                        "No liveries Yet",
+                        "No liveries Yet",
+                        "No liveries Yet",
+                        "No liveries Yet"
+                    ]
+                },
             ],
             "labels": [
                 "Texture"
@@ -623,6 +632,30 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Stellar Sky Alliance",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways XPChaser",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -632,6 +665,27 @@
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A330-900neo/Travel%20Airways%20A330-900neo.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways's 1st A339neo",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A330-900neo/Travel%20Airways's%201st%20A330-900neo.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Nezha",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A330-900neo/Travel%20Airways%20A330-900neo%20Nezha%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
@@ -640,6 +694,13 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A321neo/Travel%20Airways%20A321neo.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
             ],
             "labels": [
                 "Texture"
@@ -672,6 +733,38 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Boeing%20777-300ER/Travel%20Airways%20B777-300ER.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Stellar Sky Alliance",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Boeing%20777-300ER/Travel%20Airways%20B777-300ER%20Stellar%20Sky%20Alliance%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Victor of Anti - Fascist War",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Boeing%20777-300ER/Travel%20Airways%20B777-300ER%20Remember%20the%20Anti%20-%20Fascist%20war%20of%20the%20world.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Loves China",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Boeing%20777-300ER/Travel%20Airways%20B777-300ER%20Loves%20China%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
             ],
             "labels": [
                 "Specular shader",
@@ -707,6 +800,13 @@
         "4764": {
             "name": "Boeing b767-400ER",
             "liveries": [
+                {
+                    "name": "No liveries Yet",
+                    "texture": [
+                        "No liveries Yet"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
@@ -744,6 +844,13 @@
         "5086": {
             "name": "Airbus a321-211",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A321-211/Travel%20Airways%20A321.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
@@ -752,6 +859,13 @@
         "2951": {
             "name": "Airbus a340-300",
             "liveries": [
+                {
+                    "name": "No liveries Yet",
+                    "texture": [
+                        "No liveries Yet"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
             ],
             "labels": [
                 "Texture"
@@ -760,6 +874,27 @@
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A330-200/Travel%20Airways%20A330-200.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Stellar Sky Alliance.png",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Airbus%20A330-200/Travel%20Airways%20A330-200%20Stellar%20Sky%20Alliance%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "No CARGO liveries Yet",
+                    "texture": [
+                        "No liveries Yet"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
             ],
             "labels": [
                 "Texture"
@@ -812,6 +947,14 @@
         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
+                 {
+                    "name": "Travel Airways CARGO",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/Boeing%20747-8F/Travel%20Airways%20B747-8F.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ]
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
             ],
             "labels": [
                 "Texture",
@@ -919,10 +1062,52 @@
         "1023": {
             "name": "McDonnell Douglas MD11",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/McDonnell%20Douglas%20MD11/Travel%20Airways%20MD11.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/McDonnell%20Douglas%20MD11/Travel%20Airways%20MD11.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways CARGO",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/McDonnell%20Douglas%20MD11/Travel%20Airways%20CARGO%20MD11F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/89f53661a4ad8af2ee2fc60ba59be789e59b2a4a/liveries/McDonnell%20Douglas%20MD11/Travel%20Airways%20CARGO%20MD11F.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
             ]
-        }
+        },
+        "1005": {
+            "index": [
+                1,
+                0
+            ],
+            "parts": [
+                0,
+                0
+            ],
+            "mp": "disabled",
+            "liveries": [
+                {
+                    "name": "United Airlines (Star Alliance livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/772UALSA.jpg"
+                    ],
+                    "credits": "MirageModels"
+                }
+            ],
+            "labels": [
+                "Metallic Roughness shader",
+                "Texture"
+            ],
+            "name": "Boeing b777-200"
+        },
     }
 }
