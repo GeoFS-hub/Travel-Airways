@@ -33,11 +33,11 @@
             "name": "Boeing b737-700",
             "liveries":[
                 {
-                    "name": "Travel Airways (B-7294)",
+                    "name": "Travel Airways",
                     "texture": [
                         "/models/aircraft/premium/737_700/normal.jpg",
                         "/models/aircraft/premium/737_700/specular.jpg",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20737-700/Travel%20Airways%20B737-700.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20737-700/Travel%20Airways%20B737-700.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                   }
@@ -83,29 +83,29 @@
             "name": "Airbus a380-800",
             "liveries": [
                 {
-                    "name": "Travel Airways (B-6882)",
+                    "name": "Travel Airways",
                     "texture": [
                         "/models/aircraft/premium/a380/normal.jpg",
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A380-800/Travel%20Airways%20A380-800.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A380-800/Travel%20Airways%20A380-800.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 },
                 {
-                    "name": "Travel Airways's First A380-800 (B-6800)",
+                    "name": "Travel Airways's First A380-800",
                     "texture": [
                         "/models/aircraft/premium/a380/normal.jpg",
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A380-800/Travel%20Airways's%201st%20A380.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A380-800/Travel%20Airways's%201st%20A380.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 },
                 {
-                    "name": "Travel Airways "Public Welfare Vision" Livery (B-3882).png",
+                    "name": "Travel Airways Public Welfare Vision",
                     "texture": [
                         "/models/aircraft/premium/a380/normal.jpg",
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A380-800/Travel%20Airways%20A380%20%22Public%20Welfare%20Vision%22%20Livery.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A380-800/Travel%20Airways%20A380%20%22Public%20Welfare%20Vision%22%20Livery.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 }
@@ -268,19 +268,19 @@
             "name": "Boeing b757-200",
             "liveries": [
                 {
-                    "name": "Travel Airways CARGO (B-2836)",
+                    "name": "Travel Airways CARGO",
                     "texture": [
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Boeing%20757-200F/Travel%20Airways%20B757-200F.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 }
@@ -293,47 +293,47 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "Travel Airways (B-4549)",
+                    "name": "Travel Airways",
                     "texture": [
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 },
                 {
-                    "name": "Travel Airways Stellar Sky Alliance (B-4550)",
+                    "name": "Travel Airways Stellar Sky Alliance",
                     "texture": [
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20Stellar%20Sky%20Alliance%20Livery.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 },
                 {
-                    "name": "Travel Airways XPChaser Livery (B-4599)",
+                    "name": "Travel Airways XPChaser",
                     "texture": [
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png",
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A350-900/Travel%20Airways%20A350-900%20XPChaser%20Livery.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 }
@@ -346,9 +346,9 @@
             "name": "Airbus a319-100",
             "liveries": [
                 {
-                    "name": "Travel Airways (B-7896)",
+                    "name": "Travel Airways",
                     "texture": [
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A319-100/Travel%20Airways%20A319.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/Airbus%20A319-100/Travel%20Airways%20A319.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 },
@@ -361,16 +361,16 @@
             "name": "ATR 72-600",
             "liveries": [
                 {
-                    "name": "Travel Airways (B-4650)",
+                    "name": "Travel Airways",
                     "texture": [
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/ATR%2072-600/Travel%20Airways%20ATR72.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/ATR%2072-600/Travel%20Airways%20ATR72.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 },
                 {
-                    "name": "Travel Airways CARGO (B-465F)",
+                    "name": "Travel Airways CARGO",
                     "texture": [
-                        "https://github.com/GeoFS-hub/Travel-Airways/blob/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/ATR%2072-600/Travel%20Airways%20ATR72F.png"
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/57cda2c691c8c4673a73db668ab37aa8ff685188/liveries/ATR%2072-600/Travel%20Airways%20ATR72F.png"
                     ],
                     "credits": "31124呀, KN5290, GeoFS Explorer"
                 }
@@ -382,6 +382,13 @@
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
+                {
+                    "name": "暂无涂装",
+                    "texture": [
+                        "NO"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
@@ -390,6 +397,27 @@
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20787-9/Travel%20Airways%20B787-9.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Stellar Sky Alliance",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20787-9/Travel%20Airways%20B787-9%20Stellar%20SKy%20Alliance%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Tsinghua University",
+                    "texture": [
+                        "https://raw.githubusercontent.comGeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20787-9/Travel%20Airways%20B787-9%20Tsinghua%20University%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
@@ -398,6 +426,13 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Airbus%20A320-214/Travel%20Airways%20A320.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
@@ -414,6 +449,13 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Airbus%20A320neo/Travel%20Airways%20A320neo.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
             ],
             "labels": [
                 "Texture"
@@ -422,6 +464,13 @@
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
+                {
+                    "name": "No liveries Yet",
+                    "texture": [
+                        "No liveries Yet"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
             ],
             "labels": [
                 "Texture"
@@ -430,6 +479,13 @@
         "3180": {
             "name": "Boeing b787-10",
             "liveries": [
+                {
+                    "name": "Travel Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20787-10/Travel%20Airways%20B787-10.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                }
             ],
             "labels": [
                 "Texture"
@@ -456,6 +512,34 @@
         "3054": {
             "name": "Boeing b737-800",
             "liveries": [
+                {
+                    "name": "Travel Airways New Livery",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20737-800/Travel%20Airways%20B737-800%20New%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways Game for Peace",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20737-800/Travel%20Airways%20B737-800%20Game%20for%20Peace%20Livery.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways's 1st 737-800",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20737-800/Travel%20Airways's%201st%20B737-800.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
+                {
+                    "name": "Travel Airways's 66th 737-800",
+                    "texture": [
+                        "https://raw.githubusercontent.com/GeoFS-hub/Travel-Airways/f30d60c5dbcaacc33694d46c61e2c75437da2660/liveries/Boeing%20737-800/Travel%20Airways's%2066th%20B737-800.png"
+                    ],
+                    "credits": "31124呀, KN5290, GeoFS Explorer"
+                },
             ],
             "labels": [
                 "Texture"
