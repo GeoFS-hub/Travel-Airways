@@ -13,15 +13,6 @@ My goal was to put the liveries into one easy to use interface where you can sel
 
 ## Trailer
 > Trailer video by GeoFS Explorer
-<div class="youtube-subscribe" style="background-color:#333;">
-  <div class="g-ytsubscribe"
-       data-channelid="UCG88MiUTF8yvbzdUPyLf3DA"
-       data-layout="full"
-       data-count="default"
-       data-theme="dark">
-  </div>
-</div>
-<script src="https://apis.google.com/js/platform.js"></script>
 [![YouTube Trailer NOT ONLINE NOW](封面)](URL)
 
 
