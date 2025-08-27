@@ -12,7 +12,16 @@ In the list of liveries you can find:
 My goal was to put the liveries into one easy to use interface where you can select them fast with one click.
 
 ## Trailer
-> Trailer video by GeoFS Explorer 
+> Trailer video by GeoFS Explorer
+<div class="youtube-subscribe" style="background-color:#333;">
+  <div class="g-ytsubscribe"
+       data-channelid="UCG88MiUTF8yvbzdUPyLf3DA"
+       data-layout="full"
+       data-count="default"
+       data-theme="dark">
+  </div>
+</div>
+<script src="https://apis.google.com/js/platform.js"></script>
 [![YouTube Trailer NOT ONLINE NOW](封面)](URL)
 
 
