@@ -12,6 +12,7 @@ In the list of liveries you can find:
 My goal was to put the liveries into one easy to use interface where you can select them fast with one click.
 
 ## Trailer
+> Trailer video by GeoFS Explorer 
 [![YouTube Trailer NOT ONLINE NOW](封面)](URL)
 
 
@@ -22,7 +23,7 @@ My goal was to put the liveries into one easy to use interface where you can sel
 
 ## How to use
 
-> Tutorial video by Bilibili 31124呀
+> Tutorial video by 31124呀
 > - [On YouTube](URL)
 > - [On Bilibili](URL)
 
