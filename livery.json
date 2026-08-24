@@ -1119,6 +1119,14 @@
                         "https://raw.githubusercontent.com/31124ya/Travel-Airways/refs/heads/main/liveries/COMAC%20C919/Travel%20Airways%20C919.png"
                     ],
                     "credits": "KN5290"
+                },
+                {
+                    "name": "Travel Airways (Wenzhou livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/31124ya/Travel-Airways/refs/heads/main/liveries/COMAC%20C919/Travel_Airways_Wenzhou_1.jpg",
+                        "https://raw.githubusercontent.com/31124ya/Travel-Airways/refs/heads/main/liveries/COMAC%20C919/Travel_Airways_Wenzhou_1.jpg"
+                    ],
+                    "credits": "CP8888"
                 }
             ],
             "labels": [
